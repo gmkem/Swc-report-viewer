@@ -1,4 +1,4 @@
-name: swc-report-view
+name: swc_report_viewer
 description: ระบบตรวจสอบรายงาน SWC สำหรับสมาชิกสภานักเรียน
 publish_to: 'none'
 
